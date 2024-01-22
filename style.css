@@ -1,0 +1,12 @@
+.card{
+    height: 500px;
+    width: 200px;
+    border-radius: 10px;
+    
+}
+body{
+    background-color: blueviolet;
+}
+.cards{
+    display: flex;
+}
